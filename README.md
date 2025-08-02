@@ -15,8 +15,8 @@ These configs are optimized for official content creation:
 
 1. **Configs are available on FTW servers automatically and can be executed via this command:**
    ```
-   /exec utcs_fall21_ts
-   /exec utcs_fall21_ctf
+   /rcon exec flawless_ts
+   /rcon exec flawless_ctf
    ```
 
 1. **Backup your current config** (important - settings may be overwritten!)
