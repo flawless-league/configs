@@ -1,16 +1,23 @@
 # Flawless Configs
 
-This repository contains game configuration files for Urban Terror, specifically designed for streaming and recording games in the **Flawless League**.
+This repository contains game configuration files for Urban Terror, specifically designed for playing, streaming and recording games in the **Flawless League**.
 
 ## Overview
 
 These configs are optimized for official content creation:
+- **Server Config**: Game config for official Flawless League games (TS & CTF)
 - **Streaming Config**: For streamers broadcasting official league games
 - **Recording Config**: For creating official videos and highlights
 
 ## Installation & Usage
 
-### Recording Config Setup
+### Server Config Setup
+
+1. **Configs are available on FTW servers automatically and can be executed via this command:**
+   ```
+   /exec utcs_fall21_ts
+   /exec utcs_fall21_ctf
+   ```
 
 1. **Backup your current config** (important - settings may be overwritten!)
    ```
